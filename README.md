@@ -1,9 +1,21 @@
-- 👋 Hi, I’m @ZineeEddine.
-- 👀 I’m interested in electronics, robotics, software and mobile development. On the other hand, I like to innovate, create and undertake.
-- 🌱 I am learning C, Java, Rust, and Prolog, I plan to learn ADA for the holidays.
-- 📫 How to reach me zhrdev354@gmail.com.
+## ‼️ À la recherche d'un stage de fin d'étude dans le domaine de développement mobile Android (Java ☕️) ou iOS (Swift 🦅) ‼️ 
+## Disponible à partir de Avril 2023
 
-<!---
-ZineeEddine/ZineeEddine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Salut, je suis @ZineeEddine, étudiant en 3ème année de Licence Informatique 📍 Université Paris 8 - Vincennes - Saint - Denis.
+
+- 👀 Je m'intéresse à la robotique 🤖 et au développement mobile 📱. D'autre part, j'aime innover 🤔, créer  et entreprendre. 
+
+Voici une application mobile 📲 que j'ai développée 👨🏼‍💻 pour la bibliothèque universitaire 📚 et les étudiants de l'université Paris 8.
+### ⬇️ Ma BU P8 ⬇️
+###  👉  https://play.google.com/store/apps/details?id=com.appmbp.mbp8  👈
+##### Version Android ✅ - Version iOS ⏳ 
+                 
+    📫 Comment me joindre zhrdev354@gmail.com .
+
+    👇 Pour plus d'info 👇
+
+    - Twitter : @zhrdev354
+    - FaceBook : Zine Dev
+    - Instagram  : zine_dev
+    - LinkedIn : Zine Eddine Hadj Rabah
+    - Youtube : Chaîne YouTube en cours de création ...
