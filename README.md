@@ -19,4 +19,3 @@ J'utilise aussi GitLab : https://gitlab.com/zhrdev354
     - FaceBook : Zine Dev
     - Instagram  : zine_dev
     - LinkedIn : Zine Eddine Hadj Rabah
-    - Youtube : Chaîne YouTube en cours de création ...
