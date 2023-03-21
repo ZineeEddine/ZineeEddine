@@ -1,6 +1,3 @@
-## ‼️ À la recherche d'un stage de fin d'étude dans le domaine de développement mobile Android (Java ☕️) ou iOS (Swift 🦅) ‼️ 
-## Disponible à partir de Avril 2023
-
 - 👋 Salut, je suis @ZineeEddine, étudiant en 3ème année de Licence Informatique 📍 Université Paris 8 - Vincennes - Saint - Denis.
 
 - 👀 Je m'intéresse à la robotique 🤖 et au développement mobile 📱. D'autre part, j'aime innover 🤔, créer  et entreprendre. 
