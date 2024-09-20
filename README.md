@@ -1,4 +1,6 @@
-<div align="center"> <img src="https://github.com/ZineeEddine/ZineeEddine/assets/92603736/fcc2caf9-9a96-48af-ae1c-2c364d529841" width="500" height="550"/></div>
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/0*cywBwbn_GImUyO2Z" width="800" height="500"/>
+</div>
 
 ----
 
@@ -33,3 +35,5 @@
 [<img src="https://user-images.githubusercontent.com/92603736/218540850-4cc0907a-8329-4e17-a493-bf7e4749d9c9.png">](https://twitter.com/zhrdev354)
 [<img src="https://user-images.githubusercontent.com/92603736/218540843-f65c1cb6-9305-4904-8c30-e2b4898686c7.png">](https://www.facebook.com/profile.php?id=100073070183496)
 [<img src="https://user-images.githubusercontent.com/92603736/218539699-c32da861-86a4-4b5d-a4b0-aaedcaad9ecc.png">](https://www.instagram.com/zine_dev/?hl=fr)
+
+
