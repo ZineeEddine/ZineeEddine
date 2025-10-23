@@ -1,11 +1,19 @@
+
+👋 Salut, je suis @ZineeEddine 🧑‍💻 Developpeur d'Application Mobile Natives 📱 - MVVM architecture  & Clean Architecture (iOS & Android)    
+
+Voici un projet IoT sur lequel je travaille, sur la partie iOS : go to [https://hollyfork.com/](https://hollyfork.com/)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9df0bc2f-2491-44d4-ad28-277f13e6bd57" width="800" height="500"/>
+</div>
+
+Love IoT 
+
 <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1400/0*cywBwbn_GImUyO2Z" width="800" height="500"/>
 </div>
 
 ----
-
-👋 Salut, je suis @ZineeEddine 🧑‍💻 Developpeur d'Application Mobile Natives 📱 - MVP et MVVM architecture 
-
  <p align="center">
  <h2>
   <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" width="60">
